@@ -1,0 +1,16 @@
+How to Edit Dungeons:
+
+use dungeonmaster program. This allows you to change all aspects of
+a dungeon. You can add enemies, items, people, whatever.
+
+
+How to edit text:
+
+use the FCEUX emulator's hex editor. You can load TBL files
+(which I made) to change the hex into ascii. Then find the text you need
+and change it.
+
+TODO:
+edit overworld
+add custom textures
+
