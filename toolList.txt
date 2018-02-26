@@ -1,6 +1,0 @@
-SceneNavi -can be used to view scenes/add scenes into oot roms
-Scoll of Time -can be used to edit textboxes in roms ->continue looking
-
-Unknown - look into these:
-SharpOcarina
-Hylian Toolbox
